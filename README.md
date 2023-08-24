@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatemeh Elyasi</h1>
-<h3 align="center">A junuor android developer</h3>
+<h3 align="center">A junior android developer</h3>
 
 - 🌱 I’m currently learning **Android and Flutter**
 
