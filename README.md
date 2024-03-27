@@ -24,18 +24,12 @@
 
 <!-- Skills icons section -->
 ## skills
-  <div style="width:95%;">
-    <img style="width:16%;height:35px" src="https://img.shields.io/badge/android-%23323330.svg?style=for-the-badge&logo=android&logoColor=%23F7DF1E"/>
-    <img style="width:16%;height:35px" src="https://img.shields.io/badge/kotlin-%23E34F26.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img style="width:16%;height:35px" src="https://img.shields.io/badge/cplusplus-%231572B6.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-    <img style="width:16%;height:35px" src="https://img.shields.io/badge/figma-%23563D7C.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-    <img style="width:16%;height:35px" src="https://img.shields.io/badge/firebase-hotpink.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
-    <img style="width:16%;height:35px" src="https://img.shields.io/badge/flutter-6DA55F?style=for-the-badge&logo=flutter&logoColor=white"/>
-    <img style="width:16%;height:35px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-    <img style="width:16%;height:35px" src="https://img.shields.io/badge/git-%234ea94b.svg?style=for-the-badge&logo=git&logoColor=white"/>
-    <img style="width:16%;height:35px" src="https://img.shields.io/badge/illustrator-%23404d59.svg?style=for-the-badge&logo=illustrator&logoColor=%2361DAFB"/>
-    <img style="width:16%;height:35px" src="https://img.shields.io/badge/dart-6DA55F?style=for-the-badge&logo=dart&logoColor=white"/>
-  </div>
+<h3 align="center">skills</h3>
+<br>
+
+<p align="left"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,flutter,git,postman,sqlite,py,cpp,github&perline=16" alt="Tech Stack" /> </p>
+
+<br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
