@@ -3,31 +3,22 @@
   <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" 
          alt="Waving hand animated gif"         
          width="40"/>,
-   I'm <b>Fatemeh Elyasi😄</b>
+   I'm <b>Fatemeh Elyasi</b>
 </h1> 
 
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=i'm+junior+android+developer;i'm+currently+learning+Android+;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=i'm+junior+mobile+developer;i'm+currently+learning+Android+ and+Flutter;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=16" /></a>
 </p
   
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://twitter.com/ftmeey"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fateme#8202" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-</div>
 
 <!-- Skills icons section -->
 ## skills
-<h3 align="center">skills</h3>
 <br>
 
-<p align="left"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,flutter,git,postman,sqlite,py,cpp,github&perline=16" alt="Tech Stack" /> </p>
+<p align="center"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,postman,py,cpp,java,firebase,github,git&perline=20" alt="Tech Stack" /> </p>
 
 <br>
 
