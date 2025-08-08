@@ -14,7 +14,9 @@ I build modern mobile apps and explore AI-powered solutions, Passionate about An
 
 
 <!-- Skills icons section -->
-## Skills
+## Tools
+
+
 <br>
 
 <p align="left"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,postman,py,cpp,java,firebase,github,git&perline=20" alt="Tech Stack" /> </p>
